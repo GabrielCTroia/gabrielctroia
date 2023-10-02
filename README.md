@@ -35,7 +35,7 @@ You can still see the [Promo Website](https://partner.chessroulette.live) or the
 
 ## Do you need help with a project?
 
-I am available for hire for cool and/or impactful projects! You can drop me a message on my [Linkedin](https://www.linkedin.com/in/gabrielctroia/) or [Twitter](https://twitter.com/gctroia) and I'll get back to you as soon as I can!
+I am available for hire on cool and/or impactful projects! You can drop me a message on my [Linkedin](https://www.linkedin.com/in/gabrielctroia/) or [Twitter](https://twitter.com/gctroia) and I'll get back to you as soon as I can!
 
 Cheers 🫶
 
