@@ -27,7 +27,7 @@ Where I get to work on third-party gigs, in-house ventures such as cool chess-li
 
 For about 2 years traveling the world and building it with the dream of creating an e-Sports Chess Platform where players and streamers can play competitively in tournaments and leagues. 
 
-At our peak we grew into a team of 10 people and got to cover the 2021 World Chess Championship in collaboration with 10 Twitch streamers and host our first [Fundraising Tournament](https://fundraising-ukraine.chessroulette.live) for the children affected by the war in Ukraine, before we had to pause the business as I didn't manage to secure funding 🫠.
+At our peak we grew into a team of 10 people and got to cover the 2021 World Chess Championship in collaboration with 10 Twitch streamers and host our first [Fundraising Tournament](https://fundraising-ukraine.chessroulette.live) for the children affected by the war in Ukraine, before we had to pause the business as I didn't manage to secure funding 🫠. I write about the lessons I learned from it in [this article](https://dev.to/gabrielctroia/9-lessons-i-learned-from-failing-at-my-first-business-fe5). 
 
 You can still see the [Promo Website](https://partner.chessroulette.live) or the now open-sourced [Web Repo](https://github.com/movesthatmatter/chessroulette-web).
 
