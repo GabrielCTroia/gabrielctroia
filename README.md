@@ -2,7 +2,7 @@
 
 I am Gabriel C. Troia – a passionate indi-preneur specializing in building web and mobile applications, (turn-based) games and open-source projects towards which I devote my heart and soul (no pun intended 😉)!
 
-I built my career over the past 12+ years involved mostly in the startup world predominantly as a full-stack and mobile developer specialized in Javascript/Typescript, Node, React & React Native, NextJS and other amazing technologies in the Javascript ecosystem.
+I built my career over the past 12+ years involved mostly in the startup world predominantly as a full-stack and mobile engineer specialized in Javascript/Typescript, Node, React & React Native, NextJS and other amazing technologies in the Javascript ecosystem.
 
 > Btw, I am available for hire on cool and/or impactful projects! [See below](#do-you-need-help-with-a-project)
 
