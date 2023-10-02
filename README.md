@@ -4,9 +4,8 @@ I am Gabriel C. Troia – a passionate indi-preneur specializing in building web
 
 I built my career over the past 12+ years involved mostly in the startup world predominantly as a full-stack and mobile developer specialized in Javascript/Typescript, Node, React & React Native, NextJS and other amazing technologies in the Javascript ecosystem.
 
-> I am available for hire on cool and/or impactful projects! [See below](#do-you-need-help-with-a-project)
+> Btw, I am available for hire on cool and/or impactful projects! [See below](#do-you-need-help-with-a-project)
 
-<br />
 
 ### At the moment I'm working on 👇
 <a href="https://github.com/movesthatmatter/movex">
@@ -16,23 +15,19 @@ I built my career over the past 12+ years involved mostly in the startup world p
   </picture>
 </a>
 
-**Movex – Realtime State Sync without the backend! 😎**
+**Realtime State Sync without the backend! 😎**
 
 An Open-Source State Management and Synchronization library that abstracts the server-side and backend logic to share state between multiple users of your app. See more [here](https://movex.dev)!
 
-<br />
-
-### I am the Founder & Lead Software Developer at [Moves That Matter](https://github.com/movesthatmatter) 🚀
+### 🚀 I am also the Founder & Lead Software Developer at [Moves That Matter](https://github.com/movesthatmatter)
 
 Where I get to work on third-party gigs, in-house ventures such as cool chess-like games (launching soon!) or open-source projects like Movex!
 
-<br />
-
-### And used to be "The Chess Executive" at [Chessroulette.live](https://partner.chessroulette.live) 😁
+### 😁 And I used to be "The Chess Executive" at [Chessroulette.live](https://partner.chessroulette.live)
 
 For about 2 years traveling the world and building it with the dream of creating an e-Sports Chess Platform where players and streamers can play competitively in tournaments and leagues. 
 
-At our peak we grew into a team of 10 people and got to host ONE [fundraising tournament](https://fundraising-ukraine.chessroulette.live) before we had to pause the project as I didn't manage to secure funding.
+At our peak we grew into a team of 10 people and got to cover the 2021 World Chess Championship in collaboration with 10 Twitch streamers and host our first [Fundraising Tournament](https://fundraising-ukraine.chessroulette.live) for the children affected by the war in Ukraine, before we had to pause the business as I didn't manage to secure funding 🫠.
 
 You can still see the [Promo Website](https://partner.chessroulette.live) or the now open-sourced [Web Repo](https://github.com/movesthatmatter/chessroulette-web).
 
@@ -40,7 +35,7 @@ You can still see the [Promo Website](https://partner.chessroulette.live) or the
 
 ## Do you need help with a project?
 
-You can drop me a message on my [Linkedin](https://www.linkedin.com/in/gabrielctroia/) or [Twitter](https://twitter.com/gctroia) and I'll get back to you as soon as I can!
+I am available for hire for cool and/or impactful projects! You can drop me a message on my [Linkedin](https://www.linkedin.com/in/gabrielctroia/) or [Twitter](https://twitter.com/gctroia) and I'll get back to you as soon as I can!
 
 Cheers 🫶
 
