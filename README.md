@@ -6,6 +6,8 @@ I built my career over the past 12+ years involved mostly in the startup world p
 
 > I am available for hire on cool and/or impactful projects! [See below](#do-you-need-help-with-a-project)
 
+<br />
+
 ### At the moment I'm working on 👇
 <a href="https://github.com/movesthatmatter/movex">
   <picture width="500">
@@ -18,9 +20,13 @@ I built my career over the past 12+ years involved mostly in the startup world p
 
 An Open-Source State Management and Synchronization library that abstracts the server-side and backend logic to share state between multiple users of your app. See more [here](https://movex.dev)!
 
+<br />
+
 ### I am the Founder & Lead Software Developer at [Moves That Matter](https://github.com/movesthatmatter) 🚀
 
 Where I get to work on third-party gigs, in-house ventures such as cool chess-like games (launching soon!) or open-source projects like Movex!
+
+<br />
 
 ### And used to be "The Chess Executive" at [Chessroulette.live](https://partner.chessroulette.live) 😁
 
