@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Gabriel! I am an indiepreneur, OS/full-stack developer specialized in Javascript & Typescript technologies with 12+ years of experience.
+I am Gabriel! I am an Indiepreneur/Open-Source full-stack developer specialized in Javascript & Typescript technologies with 12+ years of experience.
 
 I'm currently building [Movex](https://github.com/movesthatmatter/movex) –  a "predictable state container" for multiplayer apps or games, that allows the developer to focus on the front-end only, while it seamlessly takes care of the back-end.
 
