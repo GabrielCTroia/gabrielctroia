@@ -11,7 +11,7 @@ I built my career over the past 12+ years involved mostly in the startup world p
 <a href="https://github.com/movesthatmatter/movex">
   <picture width="500">
     <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/2099521/242976583-54e2af34-47d1-4152-8d11-ee79c73e2439.png" width="300">
-    <img alt="Movex Logo" src="https://user-images.githubusercontent.com/2099521/242975504-a6faa334-a6b3-44b4-bf40-6ffcd27d9c08.png" width="300">
+    <img alt="Movex Logo" src="https://user-images.githubusercontent.com/2099521/242976534-60d063cd-3283-45e3-aac5-bd8ed0eb8946.png" width="300">
   </picture>
 </a>
 
