@@ -21,7 +21,7 @@ I built my career over the past 12+ years involved mostly in the startup world p
 
 _Movex let's you cut the development effort in half and ship faster by abstracting the backend logic and server-side away! 🎉_
 
-_With it's unique approach and set of features Movex gives you the freedom to focus only on the front-end while still maintaining all of the control over the App Logic, UI/UX and Authority over Data._
+_With it's unique approach and set of features Movex gives you the freedom to focus only on the front-end while still maintaining all of the control over the App Logic, UI/UX and Authority over Data. [Learn more](https://github.com/movesthatmatter/movex/)_
 
 #### Here are some ways you can contribute too:
 - Fix one of the [#hactoberfest issues](https://github.com/movesthatmatter/movex/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest).
