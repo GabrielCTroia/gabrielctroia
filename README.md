@@ -4,20 +4,38 @@ I am Gabriel C. Troia – a passionate indi-preneur specializing in building web
 
 I built my career over the past 12+ years involved mostly in the startup world predominantly as a full-stack and mobile engineer specialized in Javascript/Typescript, Node, React & React Native, NextJS and other amazing technologies in the Javascript ecosystem.
 
-> Btw, I am available for hire on cool and/or impactful projects! [See below](#do-you-need-help-with-a-project)
+<br/>
 
+---
 
-### At the moment I'm working on 👇
+## 🚀🎉 My project is participating in Hacktoberfest 👩‍💻👇
+
 <a href="https://github.com/movesthatmatter/movex">
   <picture width="500">
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/2099521/242976583-54e2af34-47d1-4152-8d11-ee79c73e2439.png" width="300">
-    <img alt="Movex Logo" src="https://user-images.githubusercontent.com/2099521/242976534-60d063cd-3283-45e3-aac5-bd8ed0eb8946.png" width="300">
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/2099521/242976583-54e2af34-47d1-4152-8d11-ee79c73e2439.png" width="350">
+    <img alt="Movex Logo" src="https://user-images.githubusercontent.com/2099521/242976534-60d063cd-3283-45e3-aac5-bd8ed0eb8946.png" width="350">
   </picture>
 </a>
 
-**Realtime State Sync without the backend! 😎**
+### Serverless real-time data sharing infrastructure for frontend developers!
 
-An Open-Source State Management and Synchronization library that abstracts the server-side and backend logic to share state between multiple users of your app. See more [here](https://movex.dev)!
+_Movex let's you cut the development effort in half and ship faster by abstracting the backend logic and server-side away! 🎉_
+
+_With it's unique approach and set of features Movex gives you the freedom to focus only on the front-end while still maintaining all of the control over the App Logic, UI/UX and Authority over Data._
+
+#### Here are some ways you can contribute too:
+- Fix one of the [#hactoberfest issues](https://github.com/movesthatmatter/movex/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest).
+- Give feedback.
+- **🙏 Give us a Github Star**
+- Request a new feature
+- File a bug report
+- Add tests
+- Use Movex to build your own game or application. [See examples below](#-examples)!
+
+---
+
+<br/>
+
 
 ### 🚀 I am also the Founder & Lead Software Developer at [Moves That Matter](https://github.com/movesthatmatter)
 
